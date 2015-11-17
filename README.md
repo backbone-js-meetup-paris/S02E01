@@ -15,6 +15,7 @@ Tester ses Behaviors Marionette.js
 [Nicolas Carlo](https://twitter.com/nicoespeon)
 
 [Slides online](http://slides.com/nicoespeon/tester-behaviors-marionette#/)
+
 [Dépôt GitHub](https://github.com/nicoespeon/testing-marionette-behaviors)
 
 Revue de presse du mois
